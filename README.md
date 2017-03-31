@@ -2,7 +2,7 @@
 
 # IEEE754-RRP: Reduced Reduced Precision Arithmetic.
 
-To mark the 30th anniversary year of IEEE754 floating point in 2017, the IEEE have introduced some
+To mark the 30th anniversary year of IEEE754 floating point in April 2017, the IEEE have introduced some
 forward-looking new formats to meet the burdgeoning need amongst the ML community for reduced
 precision arithmetic.
 
