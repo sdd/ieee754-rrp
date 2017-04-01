@@ -71,7 +71,7 @@ Possible values:
 11	NaN
 ```
 
-#### IEEE754 half-quarter-quarter (HQP) precision
+#### IEEE754 half-quarter-quarter (HQQ) precision
 
 Single bit. 0 = Zero, 1 = NaN
 
